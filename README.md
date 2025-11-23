@@ -1,3 +1,29 @@
+# 🎲 Lucky Number Game
+
+A simple C program that lets users enter two numbers, calculates their sum, and checks if the result is a **Lucky Number** (divisible by 7).
+
+---
+
+## 📖 Description
+This project is a beginner-friendly C program designed to:
+- Accept two integer inputs from the user.
+- Compute their sum.
+- Print the sum.
+- Determine if the sum is divisible by 7.
+  - If yes → Displays **"Lucky Number!!!"**
+  - If no → Displays **"Not a Lucky Number :)"**
+
+---
+
+## 🛠️ Features
+- Interactive input prompts.
+- Basic arithmetic operations.
+- Conditional check for divisibility.
+- Clear output messages.
+
+---
+
+## 📂 Project Structure
 ```c
 #include <stdio.h>
 
