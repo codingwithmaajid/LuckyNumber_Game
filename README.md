@@ -24,7 +24,7 @@ This project is a beginner-friendly C program designed to:
 ---
 
 ## 📂 Project Structure
-```c
+```c  
 #include <stdio.h>
 
 int main() {
