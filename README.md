@@ -1,6 +1,6 @@
 # 🎲 Lucky Number Game
 
-A simple C program that lets users enter two numbers, calculates their sum, and checks if the result is a **Lucky Number** (divisible by 7).
+A simple C program that lets users enter two numbers, calculates their sum, and checks if the result is a **Lucky Number** (divisible by 7). 
 
 ---
 
